@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+Welcome to Shenrx's GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
 
@@ -49,7 +49,7 @@ Want to edit the site you just published? Let’s practice commits by introducin
 Let’s start with this template:
 
 ```
-<p>Hello World! I’m [username]. This is my website!</p>
+<p>Hello World! I’m shenrx48. This is my website!</p>
 ```
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
